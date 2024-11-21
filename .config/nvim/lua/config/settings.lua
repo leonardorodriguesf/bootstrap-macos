@@ -2,7 +2,7 @@
 vim.opt.number = true
 vim.opt.relativenumber = true
 
--- Use spaces instead of tabs 
+-- Use spaces instead of tabs
 vim.opt.expandtab = true
 
 -- Set the number of spaces that a <Tab> counts for
